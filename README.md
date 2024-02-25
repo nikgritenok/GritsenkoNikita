@@ -28,7 +28,7 @@ I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 ### 💻 Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKSnikgritenok&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nikgritenok)](https://leetcode.com/nikgritenok)
 
 ### ⚙️ GitHub статистика:
 
