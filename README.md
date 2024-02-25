@@ -9,7 +9,7 @@ I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/nikgritenok/nikgritenok/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/nikgritenok/GritsenkoNikita/output/snake.svg" alt="Snake animation" />
 </p>
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
