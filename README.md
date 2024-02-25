@@ -1,6 +1,8 @@
 
 # Hi, my name in Nikita!
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ---
 
 ### :man_technologist: About me:
@@ -40,7 +42,3 @@ I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
     </td>
   </tr>
 </table>
-
-<div align="center">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nikgritenok)
-</div>
