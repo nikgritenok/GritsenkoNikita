@@ -12,7 +12,7 @@ I'm IT student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
  <img src="https://raw.githubusercontent.com/nikgritenok/GritsenkoNikita/output/snake.svg" alt="Snake animation" />
 </p>
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikgritenok) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitagritsenkowork@gmail.com)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikgritenok) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitagritsenkowork@gmail.com)
 
 ---
 
